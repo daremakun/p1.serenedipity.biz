@@ -3,6 +3,7 @@
 <head>
 <title>About Me</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<!-- Validates as html5  --> 
   
 <style type="text/css">
 
@@ -48,6 +49,7 @@ padding-top : 1em;
 border-top : 1px solid #CCC;
 }
 </style>
+<!-- Validates as CSS3 not CSS2.1 because of border-radius --> 
 
 </head>
 <body id="daremakun">
